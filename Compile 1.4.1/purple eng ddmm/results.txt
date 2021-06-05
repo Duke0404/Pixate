@@ -1,0 +1,129 @@
+Mi Band 4 Watchface Optimazation Tool by Nick and Urimu - Transparency Scanner
+
+Image 0: Found 28800 Non-transparent, 0 fully transparent and 0 partially transparent Pixels!
+Image 1: Found 527 Non-transparent, 698 fully transparent and 2000 partially transparent Pixels!
+Image 2: Found 263 Non-transparent, 1546 fully transparent and 1416 partially transparent Pixels!
+Image 3: Found 447 Non-transparent, 935 fully transparent and 1843 partially transparent Pixels!
+Image 4: Found 475 Non-transparent, 755 fully transparent and 1995 partially transparent Pixels!
+Image 5: Found 442 Non-transparent, 1021 fully transparent and 1762 partially transparent Pixels!
+Image 6: Found 482 Non-transparent, 700 fully transparent and 2043 partially transparent Pixels!
+Image 7: Found 584 Non-transparent, 502 fully transparent and 2139 partially transparent Pixels!
+Image 8: Found 305 Non-transparent, 1443 fully transparent and 1477 partially transparent Pixels!
+Image 9: Found 616 Non-transparent, 417 fully transparent and 2192 partially transparent Pixels!
+Image 10: Found 567 Non-transparent, 505 fully transparent and 2153 partially transparent Pixels!
+Image 11: Found 22 Non-transparent, 0 fully transparent and 134 partially transparent Pixels!
+Image 12: Found 10 Non-transparent, 0 fully transparent and 146 partially transparent Pixels!
+Image 13: Found 21 Non-transparent, 0 fully transparent and 135 partially transparent Pixels!
+Image 14: Found 22 Non-transparent, 0 fully transparent and 134 partially transparent Pixels!
+Image 15: Found 20 Non-transparent, 0 fully transparent and 136 partially transparent Pixels!
+Image 16: Found 21 Non-transparent, 0 fully transparent and 135 partially transparent Pixels!
+Image 17: Found 18 Non-transparent, 0 fully transparent and 138 partially transparent Pixels!
+Image 18: Found 17 Non-transparent, 0 fully transparent and 139 partially transparent Pixels!
+Image 19: Found 24 Non-transparent, 0 fully transparent and 132 partially transparent Pixels!
+Image 20: Found 20 Non-transparent, 0 fully transparent and 136 partially transparent Pixels!
+Image 21: Found 0 Non-transparent, 1 fully transparent and 0 partially transparent Pixels!
+Image 22: Found 0 Non-transparent, 1 fully transparent and 0 partially transparent Pixels!
+Image 23: Found 0 Non-transparent, 1 fully transparent and 0 partially transparent Pixels!
+Image 24: Found 0 Non-transparent, 1 fully transparent and 0 partially transparent Pixels!
+Image 25: Found 0 Non-transparent, 1 fully transparent and 0 partially transparent Pixels!
+Image 26: Found 0 Non-transparent, 1 fully transparent and 0 partially transparent Pixels!
+Image 27: Found 0 Non-transparent, 1 fully transparent and 0 partially transparent Pixels!
+Image 28: Found 0 Non-transparent, 1 fully transparent and 0 partially transparent Pixels!
+Image 29: Found 0 Non-transparent, 1 fully transparent and 0 partially transparent Pixels!
+Image 30: Found 0 Non-transparent, 1 fully transparent and 0 partially transparent Pixels!
+Image 31: Found 0 Non-transparent, 1 fully transparent and 0 partially transparent Pixels!
+Image 32: Found 0 Non-transparent, 1 fully transparent and 0 partially transparent Pixels!
+Image 33: Found 0 Non-transparent, 1 fully transparent and 0 partially transparent Pixels!
+Image 34: Found 0 Non-transparent, 1 fully transparent and 0 partially transparent Pixels!
+Image 35: Found 76 Non-transparent, 0 fully transparent and 366 partially transparent Pixels!
+Image 36: Found 63 Non-transparent, 0 fully transparent and 379 partially transparent Pixels!
+Image 37: Found 75 Non-transparent, 0 fully transparent and 367 partially transparent Pixels!
+Image 38: Found 72 Non-transparent, 0 fully transparent and 370 partially transparent Pixels!
+Image 39: Found 53 Non-transparent, 5 fully transparent and 384 partially transparent Pixels!
+Image 40: Found 51 Non-transparent, 3 fully transparent and 388 partially transparent Pixels!
+Image 41: Found 64 Non-transparent, 0 fully transparent and 378 partially transparent Pixels!
+Image 42: Found 13 Non-transparent, 4 fully transparent and 8 partially transparent Pixels!
+Image 43: Found 20 Non-transparent, 15 fully transparent and 14 partially transparent Pixels!
+Image 44: Found 20 Non-transparent, 21 fully transparent and 8 partially transparent Pixels!
+Image 45: Found 15 Non-transparent, 15 fully transparent and 6 partially transparent Pixels!
+Image 46: Found 20 Non-transparent, 21 fully transparent and 8 partially transparent Pixels!
+Image 47: Found 15 Non-transparent, 15 fully transparent and 6 partially transparent Pixels!
+Image 48: Found 20 Non-transparent, 21 fully transparent and 8 partially transparent Pixels!
+Image 49: Found 20 Non-transparent, 21 fully transparent and 8 partially transparent Pixels!
+Image 50: Found 20 Non-transparent, 21 fully transparent and 8 partially transparent Pixels!
+Image 51: Found 11 Non-transparent, 14 fully transparent and 11 partially transparent Pixels!
+Image 52: Found 32 Non-transparent, 140 fully transparent and 28 partially transparent Pixels!
+Image 53: Found 50 Non-transparent, 164 fully transparent and 36 partially transparent Pixels!
+Image 54: Found 68 Non-transparent, 188 fully transparent and 44 partially transparent Pixels!
+Image 55: Found 86 Non-transparent, 212 fully transparent and 52 partially transparent Pixels!
+Image 56: Found 104 Non-transparent, 236 fully transparent and 60 partially transparent Pixels!
+Image 57: Found 131 Non-transparent, 272 fully transparent and 72 partially transparent Pixels!
+Image 58: Found 149 Non-transparent, 296 fully transparent and 80 partially transparent Pixels!
+Image 59: Found 167 Non-transparent, 320 fully transparent and 88 partially transparent Pixels!
+Image 60: Found 185 Non-transparent, 344 fully transparent and 96 partially transparent Pixels!
+Image 61: Found 195 Non-transparent, 40 fully transparent and 54 partially transparent Pixels!
+
+The following Images contain partial Transparency:1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+
+The following Images contain full, but no partial Transparency:21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+
+While scanning, a total of 0 Errors were encountered. The following images could not be scanned:

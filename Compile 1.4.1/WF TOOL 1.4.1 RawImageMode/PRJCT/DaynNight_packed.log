@@ -1,0 +1,3 @@
+Debug|Reading config...
+Fatal|********************************************************************************
+Fatal|[ERROR]Could not find member 'Pulse' on object of type 'PulseWrapper'. Path 'Activity.Pulse.Pulse', line 43, position 11.
